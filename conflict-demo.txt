@@ -1,1 +1,1 @@
-enivironemnt : staging
+environment : production
